@@ -1,0 +1,22 @@
+{
+  "name": "testtrendtech",
+  "version": "1.0.0",
+  "description": "Test task for the position of Node.JS developer",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/temnishko/TestTrendTech.git"
+  },
+  "author": "temnishko <temnishko@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/temnishko/TestTrendTech/issues"
+  },
+  "homepage": "https://github.com/temnishko/TestTrendTech#readme",
+  "dependencies": {
+    "mocha": "^9.0.2"
+  }
+}
