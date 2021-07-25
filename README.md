@@ -1,5 +1,5 @@
 # TestTrendTech
-##Installation
+## Installation
 ```
 npm install testtrendtech
 ```
